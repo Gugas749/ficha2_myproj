@@ -1,6 +1,10 @@
-Este é o exemplo de um ficheiro de texto file1
+<h1>Listas de coisas</h1>
 
 
+<h2>Comidas</h2>
 
-Estas linhas foram acrescentadas para o exercício
-Esta tambem
+<ul>
+  <li>Bolos</li>
+  <li>Tostas</li>
+  <li>Sandes</li>
+</ul>
