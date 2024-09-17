@@ -2,4 +2,5 @@ Este é o exemplo de um ficheiro de texto file1
 
 
 
-Estas linhas foram acrescentadas para o exercicio
+Estas linhas foram acrescentadas para o exercício
+Esta tambem
